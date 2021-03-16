@@ -1,0 +1,2 @@
+<p id="beyen">Bəyəndim</p>
+<p id="beyenm">Bəyənmədim</p>
